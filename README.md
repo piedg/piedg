@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Games AI and Gameplay Programming
 - 👯 I’m looking to collaborate on Game Jams
 - 🤔 I’m looking for help with Procedural Generation...
-- 💬 Ask me about Games, Programming, and Game Programming
+- 💬 Ask me about Games, Programming, and Game Programming 😁
 - 📫 How to reach me: pietro.digiovanni.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ❤ I love: Playing guitar 🎸 and listening to A7X 🤘
+- ❤ I love: Playing guitar 🎸, listening to A7X 🤘, and playing Roguelike or RPG 
 
