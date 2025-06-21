@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pietro.digiovanni.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ❤ I love: Playing guitar 🎸, listening to A7X 🤘, and playing Roguelike or RPG 
-
+- 📚 Computer Science student at La Sapienza University of Rome
