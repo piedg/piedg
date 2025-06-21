@@ -1,4 +1,4 @@
-## Hi there, I'm Pietro 👋
+## Hi there, I'm Pietro (hcyan) 👋
 
 <!--
 **piedg/piedg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
