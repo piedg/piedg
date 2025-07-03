@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Games, Programming, and Game Programming 😁
 - 📫 How to reach me: pietro.digiovanni.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ❤ I love: Playing guitar 🎸, listening to A7X 🤘, and playing Roguelike or RPG 
+- ❤ I love: Playing guitar 🎸, Roguelikes and RPGs 
 - 📚 Computer Science student at La Sapienza University of Rome
