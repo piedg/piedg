@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Games, Games, and Games!
+- 🔭 I’m currently working on Games, Games and Games!
 - 🎮 Try them on itch: https://hcyan.itch.io/
 - 🌱 I’m currently learning Games AI and Gameplay Programming
 - 👯 I’m looking to collaborate on Game Jams
-- 🤔 I’m looking for help with Procedural Generation...
+- 🤔 I’m looking for help with Behaviour Trees...
 - 💬 Ask me about Games, Programming, and Game Programming 😁
 - 📫 How to reach me: pietro.digiovanni.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ❤ I love: Playing guitar 🎸, Roguelikes and RPGs 
+- ❤ I love: Playing guitar 🎸, Reading books and Tabletop games 
 - 📚 Computer Science student at La Sapienza University of Rome
